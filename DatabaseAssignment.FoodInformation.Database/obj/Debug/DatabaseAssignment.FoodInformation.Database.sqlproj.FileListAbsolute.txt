@@ -1,0 +1,10 @@
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\bin\Debug\DatabaseAssignment.FoodInformation.Database.dacpac
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\bin\Debug\DatabaseAssignment.FoodInformation.Database.dll
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\bin\Debug\DatabaseAssignment.FoodInformation.Database.pdb
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\obj\Debug\DatabaseAssignment.FoodInformation.Database.sqlprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\obj\Debug\Model.xml
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\obj\Debug\refactor.xml
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\obj\Debug\postdeploy.sql
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\obj\Debug\predeploy.sql
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\obj\Debug\DatabaseAssignment.FoodInformation.Database.dll
+C:\Users\mark.hamner\source\repos\DatabaseAssignment.FoodInformation.Database\DatabaseAssignment.FoodInformation.Database\obj\Debug\DatabaseAssignment.FoodInformation.Database.pdb

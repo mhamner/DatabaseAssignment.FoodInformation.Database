@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[FoodCategory] (Table)
+       [dbo].[FoodInfo] (Table)
+       [dbo].[FK_FoodInfo_FoodCategory] (Foreign Key)
+       [dbo].[spGetAllFood] (Procedure)
+       [dbo].[spGetFoodByCategory] (Procedure)
+
+** Supporting actions
